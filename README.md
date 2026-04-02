@@ -1,20 +1,20 @@
-📊 Data Science Salary Calculator Dashboard
+##📊 Data Science Salary Calculator Dashboard
 
 An interactive Excel dashboard designed to analyze salary trends across data roles, countries, and employment types using real-world job salary data.
 
-1. Project Title / Headline
+#1. Project Title / Headline
 
 📊 Data Science Salary Calculator Dashboard
 
 An interactive Microsoft Excel dashboard built to analyze salary trends across Data Analyst, Data Scientist, and Data Engineer roles, helping users compare salaries across countries, employment types, and job platforms.
 
-2. Short Description / Purpose
+#2. Short Description / Purpose
 
 The Data Science Salary Calculator is an interactive Excel dashboard designed to explore salary trends in the data analytics and data science job market. The dashboard enables users to filter and compare salaries across job titles, countries, and employment types.
 
 This dashboard helps users understand salary distributions, job demand, and compensation differences across different data roles using dynamic Excel visualizations.
 
-3. Tech Stack
+#3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -25,7 +25,7 @@ The dashboard was built using the following tools and technologies:
 • 🧠 Excel Formulas – Calculations and KPI creation
 • 🎨 Dashboard Design – Layout and UI formatting
 
-4. Data Source
+#4. Data Source
 
 Source: Data Science Job Salary Dataset
 
@@ -41,7 +41,7 @@ The dataset contains job-level information including:
 
 This dataset was used to analyze salary trends across different data-related roles and geographic locations.
 
-5. Features / Highlights
+#5. Features / Highlights
 Business Problem
 
 Understanding salary trends in the data analytics field can be difficult due to variation across roles, countries, and employment types.
@@ -109,7 +109,7 @@ Business Impact & Value
 • Identifies high-paying countries
 • Supports career planning decisions
 
-6. Screenshots / Demos
+#6. Screenshots / Demos
 
 (Add Dashboard Screenshot Here)
 
