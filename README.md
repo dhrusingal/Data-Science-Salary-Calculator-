@@ -1,4 +1,4 @@
-##📊 Data Science Salary Calculator Dashboard
+## 📊 Data Science Salary Calculator Dashboard
 
 An interactive Excel dashboard designed to analyze salary trends across data roles, countries, and employment types using real-world job salary data.
 
