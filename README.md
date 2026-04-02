@@ -139,8 +139,8 @@ These slicers allow dynamic exploration of salary data.
 
 ## 6. Screenshots / Demos
 
-[(Add Dashboard Screenshot Here)
-](https://github.com/dhrusingal/Data-Science-Salary-Calculator-/blob/main/Data%20Science%20Salary%20Calculator.png)
+![Data Science Salary Calculator](https://raw.githubusercontent.com/dhrusingal/Data-Science-Salary-Calculator-/main/Data%20Science%20Salary%20Calculator.png)
+
 ---
 
 ## 🚀 Skills Demonstrated
